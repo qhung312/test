@@ -1,3 +1,3 @@
 hello world 
-this is some text
-this is some other text
+for (int i = 0; i < n; i++) {
+this is some werid text
